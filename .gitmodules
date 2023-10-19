@@ -1,9 +1,9 @@
-[submodule "dungeon-server"]
+[submodule "server"]
 	path = server
 	url = https://github.com/Luminighty/dungeon-server
-[submodule "dungeon-client"]
+[submodule "client"]
 	path = client
 	url = https://github.com/Luminighty/dungeon-client
-[submodule "ts-math"]
+[submodule "math"]
 	path = math
 	url = https://github.com/Luminighty/ts-math
